@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>DF6384F81F9BE993402F357F50F27D738DFDAFBEAEE4CD515C90E1807A983FA8</Signature>
+  <Content>
+    <Project Guid="c73ee1f8-bee0-4b70-9891-f0a283d819d0">
+      <DisplayName Value="UnityNovelTemplate"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="a036242e-fcc4-4917-b252-b0d8486ed94e"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="636654947046450917"/>
+      <PartitionHash Value="AF6B46F51566AA5655A7F4A218B26D60A85EC2888DB60871B78A985AB7E4E3FC"/>
+      <SaveFileVersion Value="55"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>

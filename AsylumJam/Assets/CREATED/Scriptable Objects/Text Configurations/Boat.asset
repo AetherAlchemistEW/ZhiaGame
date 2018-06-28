@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d52b4a8c1bcdacb42a47b2ccd86e81ef, type: 3}
+  m_Name: Boat
+  m_EditorClassIdentifier: 
+  font: {fileID: 12800000, guid: 0b361a369638f1340b7724b9a3fa66c5, type: 3}
+  material: {fileID: 2100000, guid: 9c52cb79620d342408e454b4d3e1945f, type: 2}
+  alignment: 3
+  textSize: 30
+  tintColour: {r: 1, g: 1, b: 1, a: 1}

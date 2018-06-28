@@ -1,0 +1,1671 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1919818469, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
+  m_Name: All objects
+  m_EditorClassIdentifier: 
+  mPackagePath: Assets/ArticyContent/Generated/Resources/All objects.asset
+  mResourceKey: All objects
+  mObjects:
+  - {fileID: 114653832756297306}
+  - {fileID: 114090769517551330}
+  - {fileID: 114959417880749918}
+  - {fileID: 114739340266307494}
+  - {fileID: 114789722495430622}
+  - {fileID: 114042499904674238}
+  - {fileID: 114817517672077924}
+  - {fileID: 114876649152081230}
+  - {fileID: 114527988438987252}
+  - {fileID: 114117405650963880}
+  - {fileID: 114154056317444596}
+  - {fileID: 114593049680506790}
+  - {fileID: 114433293255804056}
+  - {fileID: 114626458356915438}
+  - {fileID: 114037283032793874}
+  - {fileID: 114585291616883146}
+  - {fileID: 114513619252704818}
+  - {fileID: 114146885332366862}
+  - {fileID: 114285528124207856}
+  - {fileID: 114689735076752100}
+  - {fileID: 114951777092295464}
+  - {fileID: 114872425742638114}
+  - {fileID: 114455750834109200}
+  - {fileID: 114889482819452122}
+  - {fileID: 114460605514024180}
+  - {fileID: 114658102584045666}
+  - {fileID: 114108017162062920}
+  - {fileID: 114970306384659160}
+  - {fileID: 114818065897036694}
+--- !u!114 &114037283032793874
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_26FDBD4E
+  m_EditorClassIdentifier: 
+  id: 72057594037928365
+  technicalName: FFr_26FDBD4E
+  parentId: 72057594037928232
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Ask For Information
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: "\"What's happened to this place? where are all the people?\"\r\n\r\nThe
+    innkeeper looks you over.\r\n\r\n\"I don't know how long you've been gone kid,
+    but you picked a poor time to come back. Now can I get you a room or what?\""
+  mExternalId: 
+  mPosition: {x: 850, y: 350}
+  mZIndex: 3
+  mSize: {x: 275, y: 200}
+  mShortId: 654163278
+  mInputPins:
+    value:
+    - id: 72057594037928368
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928365
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928369
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928365
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928375
+          mTarget:
+            objectRef: 72057594037928372
+--- !u!114 &114042499904674238
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_F274D19C
+  m_EditorClassIdentifier: 
+  id: 72057594037928273
+  technicalName: FFr_F274D19C
+  parentId: 72057594037928220
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Go To Deck
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: None, other than a few crew members, fill the deck. Surprising, you thought
+    there'd be more Otani than yourself headed home for the harvest. It's been 10
+    cycles since you've been home.
+  mExternalId: 
+  mPosition: {x: 800, y: 200}
+  mZIndex: 2
+  mSize: {x: 275, y: 200}
+  mShortId: 4067742108
+  mInputPins:
+    value:
+    - id: 72057594037928276
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928273
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928277
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928273
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928767
+          mTarget:
+            objectRef: 72057594037928764
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928775
+          mTarget:
+            objectRef: 72057594037928772
+--- !u!114 &114090769517551330
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6550ca6757ba7444db7d3072460f9c0a, type: 3}
+  m_Name: FFr_C6911EE5
+  m_EditorClassIdentifier: 
+  id: 72057594037928226
+  technicalName: FFr_C6911EE5
+  parentId: 216172783251375095
+  childrenIds: 72010000000000017a010000000000018c010000000000019301000000000001
+  mAttachments:
+    listIds: 
+  mDisplayName: The Docks
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: -350, y: 225}
+  mZIndex: 1
+  mSize: {x: 275, y: 200}
+  mShortId: 3331399397
+  mInputPins:
+    value:
+    - id: 72057594037928229
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928226
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928309
+          mTarget:
+            objectRef: 72057594037928306
+  mOutputPins:
+    value:
+    - id: 72057594037928230
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928226
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928235
+          mTarget:
+            objectRef: 72057594037928232
+  mTemplate:
+    value:
+      mChapterFeatures:
+        value:
+          mChapterImage:
+            objectRef: 0
+--- !u!114 &114108017162062920
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e012a888fe855e847858c5cd46fc14a6, type: 3}
+  m_Name: Ufo_FAC9155D
+  m_EditorClassIdentifier: 
+  id: 72057594037928201
+  technicalName: Ufo_FAC9155D
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Audio
+  mExternalId: 
+  mShortId: 4207482205
+  mZIndex: 0
+--- !u!114 &114117405650963880
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_38A97F69
+  m_EditorClassIdentifier: 
+  id: 72057594037928314
+  technicalName: FFr_38A97F69
+  parentId: 72057594037928226
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Head Towards Tavern
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: As you make towards the tavern you notice an old friend.
+  mExternalId: 
+  mPosition: {x: 325, y: 425}
+  mZIndex: 1
+  mSize: {x: 275, y: 200}
+  mShortId: 950632297
+  mInputPins:
+    value:
+    - id: 72057594037928317
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928314
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928318
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928314
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928335
+          mTarget:
+            objectRef: 72057594037928332
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928342
+          mTarget:
+            objectRef: 72057594037928339
+--- !u!114 &114146885332366862
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_E3DDB662
+  m_EditorClassIdentifier: 
+  id: 72057594037928786
+  technicalName: FFr_E3DDB662
+  parentId: 72057594037928232
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Go To Room
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: "You head upstairs and go inside your room. The linen is fresh, but a layer
+    of dust coats the rest of the bedroom. \r\n\r\nYou sling your satchel under the
+    bed and lay down. \r\n\r\nHopefully you'll have a better sleep in an actual bed."
+  mExternalId: 
+  mPosition: {x: 1875, y: 475}
+  mZIndex: 11
+  mSize: {x: 275, y: 200}
+  mShortId: 3822958178
+  mInputPins:
+    value:
+    - id: 72057594037928789
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928786
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928790
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928786
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928236
+          mTarget:
+            objectRef: 72057594037928232
+--- !u!114 &114154056317444596
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_9B9D67A6
+  m_EditorClassIdentifier: 
+  id: 72057594037928332
+  technicalName: FFr_9B9D67A6
+  parentId: 72057594037928226
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Talk To Them
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: "You make your way over to them, trying to control the large smile forming
+    on your face.\r\n\r\nThe old friend looks at you with a sharp stare. \r\n\r\n\"What
+    are you doing here? You should leave while you can!\" \r\n\r\nThey rush off before
+    you get a chance to reply...\r\n\r\nThe smile on your face leaves as quickly as
+    your friend did. What did they mean by that?"
+  mExternalId: 
+  mPosition: {x: 650, y: 300}
+  mZIndex: 4
+  mSize: {x: 275, y: 200}
+  mShortId: 2610784166
+  mInputPins:
+    value:
+    - id: 72057594037928335
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928332
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928336
+      mText:
+        value:
+          handlerId: -670664929
+          mRawScript: StoryEvents.Chp2_SpokeToFriend = true;
+      mOwner: 72057594037928332
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928230
+          mTarget:
+            objectRef: 72057594037928226
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928342
+          mTarget:
+            objectRef: 72057594037928339
+--- !u!114 &114285528124207856
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_7EB3B15C
+  m_EditorClassIdentifier: 
+  id: 72057594037928400
+  technicalName: FFr_7EB3B15C
+  parentId: 72057594037928299
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: '...'
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: You awake in the middle of the night/early morning to the sound of screaming
+    and the downstairs door breaking.
+  mExternalId: 
+  mPosition: {x: 275, y: 425}
+  mZIndex: 0
+  mSize: {x: 275, y: 200}
+  mShortId: 2125705564
+  mInputPins:
+    value:
+    - id: 72057594037928403
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928400
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928404
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928400
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928411
+          mTarget:
+            objectRef: 72057594037928408
+--- !u!114 &114433293255804056
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_1D2DD618
+  m_EditorClassIdentifier: 
+  id: 72057594037928350
+  technicalName: FFr_1D2DD618
+  parentId: 72057594037928232
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: '...'
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: You enter the tavern expecting to find a room filled with loud and warm people,
+    happy to regale you with their stories of adventure and wonder. Instead, the air
+    is stale and cold. Dishevelled adventurers tuck themselves into corners and avoid
+    your gaze.
+  mExternalId: 
+  mPosition: {x: 125, y: 425}
+  mZIndex: 0
+  mSize: {x: 275, y: 200}
+  mShortId: 489543192
+  mInputPins:
+    value:
+    - id: 72057594037928353
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928350
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928354
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928350
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928360
+          mTarget:
+            objectRef: 72057594037928357
+--- !u!114 &114455750834109200
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_F89FFE38
+  m_EditorClassIdentifier: 
+  id: 72057594037928764
+  technicalName: FFr_F89FFE38
+  parentId: 72057594037928220
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Walk To The Edge Of The Ship
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: You lean over the bannister and look out over the water. The docks aren't
+    too far away now, you can see lanterns being lit, but most other details are too
+    far to make out.
+  mExternalId: 
+  mPosition: {x: 1150, y: 200}
+  mZIndex: 9
+  mSize: {x: 275, y: 200}
+  mShortId: 4171234872
+  mInputPins:
+    value:
+    - id: 72057594037928767
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928764
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928768
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928764
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928775
+          mTarget:
+            objectRef: 72057594037928772
+--- !u!114 &114460605514024180
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e012a888fe855e847858c5cd46fc14a6, type: 3}
+  m_Name: Ufo_CFF9E121
+  m_EditorClassIdentifier: 
+  id: 72057594037928197
+  technicalName: Ufo_CFF9E121
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Images
+  mExternalId: 
+  mShortId: 3489259809
+  mZIndex: 0
+--- !u!114 &114513619252704818
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_F7792F21
+  m_EditorClassIdentifier: 
+  id: 72057594037928382
+  technicalName: FFr_F7792F21
+  parentId: 72057594037928232
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Have A Meal
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: "You sit down by the fire with your meal. \r\n\r\nStart to listen into conversations
+    about something weird happening in town.\r\n\r\nTry to talk to people but they
+    move away"
+  mExternalId: 
+  mPosition: {x: 1550, y: 350}
+  mZIndex: 8
+  mSize: {x: 275, y: 200}
+  mShortId: 4151914273
+  mInputPins:
+    value:
+    - id: 72057594037928385
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928382
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928386
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928382
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928789
+          mTarget:
+            objectRef: 72057594037928786
+--- !u!114 &114527988438987252
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_7148EDFE
+  m_EditorClassIdentifier: 
+  id: 72057594037928306
+  technicalName: FFr_7148EDFE
+  parentId: 72057594037928226
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: '...'
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: "You arrive at the docks. \r\n\r\nLanterns light the evening, things look
+    different from how you remember. There's a strange air that wasn't here before.\r\n\r\nYou
+    need to find a place to spend the night."
+  mExternalId: 
+  mPosition: {x: -25, y: 425}
+  mZIndex: 0
+  mSize: {x: 275, y: 200}
+  mShortId: 1900604926
+  mInputPins:
+    value:
+    - id: 72057594037928309
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928306
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928310
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928306
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928317
+          mTarget:
+            objectRef: 72057594037928314
+--- !u!114 &114585291616883146
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_589B8299
+  m_EditorClassIdentifier: 
+  id: 72057594037928372
+  technicalName: FFr_589B8299
+  parentId: 72057594037928232
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Ask For Room
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: "\"You're room's upstairs, you're welcome to a meal too, just don't get too
+    fussy.\"\r\n\r\nYou take your key and meal token."
+  mExternalId: 
+  mPosition: {x: 1200, y: 500}
+  mZIndex: 5
+  mSize: {x: 275, y: 200}
+  mShortId: 1486586521
+  mInputPins:
+    value:
+    - id: 72057594037928375
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928372
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928376
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928372
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928385
+          mTarget:
+            objectRef: 72057594037928382
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928789
+          mTarget:
+            objectRef: 72057594037928786
+--- !u!114 &114593049680506790
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_D6FACF9C
+  m_EditorClassIdentifier: 
+  id: 72057594037928339
+  technicalName: FFr_D6FACF9C
+  parentId: 72057594037928226
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Go Inside Tavern
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: You heave open the large wooden door and go inside.
+  mExternalId: 
+  mPosition: {x: 825, y: 575}
+  mZIndex: 6
+  mSize: {x: 275, y: 200}
+  mShortId: 3606761372
+  mInputPins:
+    value:
+    - id: 72057594037928342
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928339
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928343
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928339
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928230
+          mTarget:
+            objectRef: 72057594037928226
+--- !u!114 &114626458356915438
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_E83D3BF9
+  m_EditorClassIdentifier: 
+  id: 72057594037928357
+  technicalName: FFr_E83D3BF9
+  parentId: 72057594037928232
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Talk to the Innkeeper
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: '"Huh, we don''t see many travellers these days. What''ll it be?"'
+  mExternalId: 
+  mPosition: {x: 500, y: 500}
+  mZIndex: 1
+  mSize: {x: 275, y: 200}
+  mShortId: 3896327161
+  mInputPins:
+    value:
+    - id: 72057594037928360
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928357
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928361
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928357
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928368
+          mTarget:
+            objectRef: 72057594037928365
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928375
+          mTarget:
+            objectRef: 72057594037928372
+--- !u!114 &114653832756297306
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6550ca6757ba7444db7d3072460f9c0a, type: 3}
+  m_Name: FFr_BE1E18AD
+  m_EditorClassIdentifier: 
+  id: 72057594037928220
+  technicalName: FFr_BE1E18AD
+  parentId: 216172783251375095
+  childrenIds: 360100000000000151010000000000015a0100000000000163010000000000013c030000000000014403000000000001
+  mAttachments:
+    listIds: 
+  mDisplayName: The Boat
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: -700, y: 225}
+  mZIndex: 0
+  mSize: {x: 275, y: 200}
+  mShortId: 3189643437
+  mInputPins:
+    value:
+    - id: 72057594037928223
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928220
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928294
+          mTarget:
+            objectRef: 72057594037928291
+  mOutputPins:
+    value:
+    - id: 72057594037928224
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928220
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928229
+          mTarget:
+            objectRef: 72057594037928226
+  mTemplate:
+    value:
+      mChapterFeatures:
+        value:
+          mChapterImage:
+            objectRef: 0
+--- !u!114 &114658102584045666
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e012a888fe855e847858c5cd46fc14a6, type: 3}
+  m_Name: Ufo_8CD0590C
+  m_EditorClassIdentifier: 
+  id: 72057594037928199
+  technicalName: Ufo_8CD0590C
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Videos
+  mExternalId: 
+  mShortId: 2362464524
+  mZIndex: 0
+--- !u!114 &114689735076752100
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_7F7B8309
+  m_EditorClassIdentifier: 
+  id: 72057594037928408
+  technicalName: FFr_7F7B8309
+  parentId: 72057594037928299
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Head Downstairs
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: "You rush downstairs to find one of the villagers bleeding on the stone floor,
+    the innkeeper trying to patch them up.\r\n\r\n\"Don't just stand there, help us!\""
+  mExternalId: 
+  mPosition: {x: 625, y: 425}
+  mZIndex: 2
+  mSize: {x: 275, y: 200}
+  mShortId: 2138800905
+  mInputPins:
+    value:
+    - id: 72057594037928411
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928408
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928412
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928408
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928733
+          mTarget:
+            objectRef: 72057594037928730
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928740
+          mTarget:
+            objectRef: 72057594037928737
+--- !u!114 &114739340266307494
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6550ca6757ba7444db7d3072460f9c0a, type: 3}
+  m_Name: FFr_5B271FD1
+  m_EditorClassIdentifier: 
+  id: 72057594037928299
+  technicalName: FFr_5B271FD1
+  parentId: 216172783251375095
+  childrenIds: d001000000000001d8010000000000011a030000000000012103000000000001
+  mAttachments:
+    listIds: 
+  mDisplayName: The Attack
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 350, y: 225}
+  mZIndex: 5
+  mSize: {x: 275, y: 200}
+  mShortId: 1529290705
+  mInputPins:
+    value:
+    - id: 72057594037928302
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928299
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928403
+          mTarget:
+            objectRef: 72057594037928400
+  mOutputPins:
+    value:
+    - id: 72057594037928303
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928299
+      mConnections:
+        value: []
+  mTemplate:
+    value:
+      mChapterFeatures:
+        value:
+          mChapterImage:
+            objectRef: 0
+--- !u!114 &114789722495430622
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_3DEF91DF
+  m_EditorClassIdentifier: 
+  id: 72057594037928246
+  technicalName: FFr_3DEF91DF
+  parentId: 72057594037928220
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Get Up
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: "Wooden boards creak underneath your feet. You didn't sleep as well as you
+    hoped.\r\n\r\nYou look around the cabin and collect your bag. This satchel, a
+    little worn now, has been your oldest friend. \r\n\r\nThere's a lantern on a small
+    table, it might come in handy later."
+  mExternalId: 
+  mPosition: {x: -25, y: 350}
+  mZIndex: 0
+  mSize: {x: 275, y: 200}
+  mShortId: 1039110623
+  mInputPins:
+    value:
+    - id: 72057594037928249
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928246
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928250
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928246
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928276
+          mTarget:
+            objectRef: 72057594037928273
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928285
+          mTarget:
+            objectRef: 72057594037928282
+--- !u!114 &114817517672077924
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_4CFEC9EC
+  m_EditorClassIdentifier: 
+  id: 72057594037928282
+  technicalName: FFr_4CFEC9EC
+  parentId: 72057594037928220
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Take Lantern
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: You attach the lantern to your satchel.
+  mExternalId: 
+  mPosition: {x: 350, y: 475}
+  mZIndex: 4
+  mSize: {x: 275, y: 200}
+  mShortId: 1291766252
+  mInputPins:
+    value:
+    - id: 72057594037928285
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928282
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928286
+      mText:
+        value:
+          handlerId: 1977422282
+          mRawScript: Items.HasLantern = true;
+      mOwner: 72057594037928282
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928276
+          mTarget:
+            objectRef: 72057594037928273
+--- !u!114 &114818065897036694
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e012a888fe855e847858c5cd46fc14a6, type: 3}
+  m_Name: Ufo_95FFFF32
+  m_EditorClassIdentifier: 
+  id: 72057594037928205
+  technicalName: Ufo_95FFFF32
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Miscellaneous
+  mExternalId: 
+  mShortId: 2516582194
+  mZIndex: 0
+--- !u!114 &114872425742638114
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_F207763B
+  m_EditorClassIdentifier: 
+  id: 72057594037928737
+  technicalName: FFr_F207763B
+  parentId: 72057594037928299
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: '"Not until you tell me what''s going on here!"'
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 950, y: 550}
+  mZIndex: 6
+  mSize: {x: 275, y: 200}
+  mShortId: 4060575291
+  mInputPins:
+    value:
+    - id: 72057594037928740
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928737
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928741
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928737
+      mConnections:
+        value: []
+--- !u!114 &114876649152081230
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_8D245517
+  m_EditorClassIdentifier: 
+  id: 72057594037928291
+  technicalName: FFr_8D245517
+  parentId: 72057594037928220
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Boat Start
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: The sound of bells and orders being called stirs you from your sleep. Soft
+    light flows in through a small window, your hammock swaying to the motion of the
+    sea.
+  mExternalId: 
+  mPosition: {x: -375, y: 350}
+  mZIndex: 7
+  mSize: {x: 275, y: 200}
+  mShortId: 2367968535
+  mInputPins:
+    value:
+    - id: 72057594037928294
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928291
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928295
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928291
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928249
+          mTarget:
+            objectRef: 72057594037928246
+--- !u!114 &114889482819452122
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_B14C676D
+  m_EditorClassIdentifier: 
+  id: 72057594037928772
+  technicalName: FFr_B14C676D
+  parentId: 72057594037928220
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Wait For Ship To Dock
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: You find a bench and collect your thoughts.
+  mExternalId: 
+  mPosition: {x: 1250, y: 475}
+  mZIndex: 11
+  mSize: {x: 275, y: 200}
+  mShortId: 2974574445
+  mInputPins:
+    value:
+    - id: 72057594037928775
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928772
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928776
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928772
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928224
+          mTarget:
+            objectRef: 72057594037928220
+--- !u!114 &114951777092295464
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5477f0127498844582a65e1c30fcaed, type: 3}
+  m_Name: FFr_490AC373
+  m_EditorClassIdentifier: 
+  id: 72057594037928730
+  technicalName: FFr_490AC373
+  parentId: 72057594037928299
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Help Them
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 1300, y: 300}
+  mZIndex: 4
+  mSize: {x: 275, y: 200}
+  mShortId: 1225442163
+  mInputPins:
+    value:
+    - id: 72057594037928733
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928730
+      mConnections:
+        value: []
+  mOutputPins:
+    value:
+    - id: 72057594037928734
+      mText:
+        value:
+          handlerId: -237506491
+          mRawScript: StoryEvents.Chp4_HelpedVillager = true;
+      mOwner: 72057594037928730
+      mConnections:
+        value: []
+--- !u!114 &114959417880749918
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6550ca6757ba7444db7d3072460f9c0a, type: 3}
+  m_Name: FFr_C613C74D
+  m_EditorClassIdentifier: 
+  id: 72057594037928232
+  technicalName: FFr_C613C74D
+  parentId: 216172783251375095
+  childrenIds: 9e01000000000001a501000000000001ad01000000000001b401000000000001be010000000000015203000000000001
+  mAttachments:
+    listIds: 
+  mDisplayName: The Tavern
+  mPreviewImage:
+    mViewBox:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 0, y: 225}
+  mZIndex: 2
+  mSize: {x: 275, y: 200}
+  mShortId: 3323184973
+  mInputPins:
+    value:
+    - id: 72057594037928235
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928232
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928353
+          mTarget:
+            objectRef: 72057594037928350
+  mOutputPins:
+    value:
+    - id: 72057594037928236
+      mText:
+        value:
+          handlerId: 0
+          mRawScript: 
+      mOwner: 72057594037928232
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928302
+          mTarget:
+            objectRef: 72057594037928299
+  mTemplate:
+    value:
+      mChapterFeatures:
+        value:
+          mChapterImage:
+            objectRef: 0
+--- !u!114 &114970306384659160
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e012a888fe855e847858c5cd46fc14a6, type: 3}
+  m_Name: Ufo_D4B6E4D6
+  m_EditorClassIdentifier: 
+  id: 72057594037928203
+  technicalName: Ufo_D4B6E4D6
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Documents
+  mExternalId: 
+  mShortId: 3568755926
+  mZIndex: 0
